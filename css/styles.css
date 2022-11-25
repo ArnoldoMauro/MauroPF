@@ -133,7 +133,7 @@ main section div ul li a{
   font-size: 1.3rem;
 }
 
-/*------------ quienes_somos (html)---------------------------*/
+/*------------ quienes_somos ---------------------------*/
 #container_qs{ /* contenedor padre QS */
   margin-top: 0;
   display: grid;
@@ -220,7 +220,7 @@ section{
   animation: animacion 10s ease infinite; /* animacion del fondo */
 }
 
-/*------------ galería (html)---------------------------*/
+/*------------ galería ---------------------------*/
 .col-sm-12 .col-md-6 .col-lg-4{
   background: #E6DADA;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #274046, #E6DADA);  /* Chrome 10-25, Safari 5.1-6 */
@@ -257,7 +257,7 @@ img{
   background: linear-gradient(to right, #466066, #E6DADA); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
-/*------------ compras (html)--------------*/
+/*------------ compras --------------*/
 .flex-container{
   margin-top: 0px;
   width: 95%;
