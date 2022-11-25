@@ -46,7 +46,7 @@ article div p {
 .navbar-toggler{
   background-color: #f5f6f7;
 }
-a {
+nav a {
   text-decoration: none;
   background-image: linear-gradient(currentColor, currentColor);
   background-position: 0% 100%;
@@ -230,7 +230,6 @@ span{
   font-family: Inter;
   color: black;
   font-size: 18px;
-  /*box-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);*/
 }
 .container-fluid{ /*contenedor padre*/
   margin-top: 0px;
